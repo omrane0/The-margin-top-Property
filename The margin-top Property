@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  margin-right: 150px;
+}
+</style>
+</head>
+<body>
+
+<h1>The margin-right Property</h1>
+
+<p>A paragraph with no margins specified. A paragraph with no margins specified. A paragraph with no margins specified.</p>
+<p class="ex1">A paragraph with a 150 pixels right margin. A paragraph with a 150 pixels right margin. A paragraph with a 150 pixels right margin.</p>
+<p>A paragraph with no margins specified. A paragraph with no margins specified. A paragraph with no margins specified.</p>
+
+</body>
+</html>
+
+
+The margin-right Property
+A paragraph with no margins specified. A paragraph with no margins specified. A paragraph with no margins specified.
+
+A paragraph with a 150 pixels right margin. A paragraph with a 150 pixels right margin. A paragraph with a 150 pixels right margin.
+
+A paragraph with no margins specified. A paragraph with no margins specified. A paragraph with no margins specified.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  margin-top: 25px;
+}
+</style>
+</head>
+<body>
+
+<h1>The margin-top Property</h1>
+
+<p>A paragraph with no margins specified.</p>
+<p class="ex1">A paragraph with a 25 pixels top margin.</p>
+<p>A paragraph with no margins specified.</p>
+
+</body>
+</html>
+
+
+The margin-top Property
+A paragraph with no margins specified.
+
+A paragraph with a 25 pixels top margin.
+
+A paragraph with no margins specified.
